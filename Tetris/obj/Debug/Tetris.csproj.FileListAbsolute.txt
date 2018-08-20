@@ -1,0 +1,30 @@
+C:\Users\Marrie\Desktop\Tetris\Tetris\bin\Debug\Tetris.exe.config
+C:\Users\Marrie\Desktop\Tetris\Tetris\bin\Debug\Tetris.exe
+C:\Users\Marrie\Desktop\Tetris\Tetris\bin\Debug\Tetris.pdb
+C:\Users\Marrie\Desktop\Tetris\Tetris\obj\Debug\Tetris.csprojResolveAssemblyReference.cache
+C:\Users\Marrie\Desktop\Tetris\Tetris\obj\Debug\Tetris.Form1.resources
+C:\Users\Marrie\Desktop\Tetris\Tetris\obj\Debug\Tetris.Properties.Resources.resources
+C:\Users\Marrie\Desktop\Tetris\Tetris\obj\Debug\Tetris.csproj.GenerateResource.Cache
+C:\Users\Marrie\Desktop\Tetris\Tetris\obj\Debug\Tetris.exe
+C:\Users\Marrie\Desktop\Tetris\Tetris\obj\Debug\Tetris.pdb
+F:\Tetris\Tetris\bin\Debug\Tetris.exe.config
+F:\Tetris\Tetris\obj\Debug\Tetris.exe
+F:\Tetris\Tetris\obj\Debug\Tetris.pdb
+F:\Tetris\Tetris\bin\Debug\Tetris.exe
+F:\Tetris\Tetris\bin\Debug\Tetris.pdb
+F:\Tetris\Tetris\obj\Debug\Tetris.csprojResolveAssemblyReference.cache
+F:\Tetris\Tetris\obj\Debug\Tetris.Form1.resources
+F:\Tetris\Tetris\obj\Debug\Tetris.Properties.Resources.resources
+F:\Tetris\Tetris\obj\Debug\Tetris.csproj.GenerateResource.Cache
+F:\Project\Tetris\Tetris\bin\Debug\Tetris.exe.config
+F:\Project\Tetris\Tetris\obj\Debug\Tetris.exe
+F:\Project\Tetris\Tetris\obj\Debug\Tetris.pdb
+F:\Programmes\C# Programs\GUI\Labs && Assignments\Tetris\Tetris\bin\Debug\Tetris.exe.config
+F:\Programmes\C# Programs\GUI\Labs && Assignments\Tetris\Tetris\obj\Debug\Tetris.exe
+F:\Programmes\C# Programs\GUI\Labs && Assignments\Tetris\Tetris\obj\Debug\Tetris.pdb
+F:\Programmes\C# Programs\GUI\Labs && Assignments\Tetris\Tetris\bin\Debug\Tetris.exe
+F:\Programmes\C# Programs\GUI\Labs && Assignments\Tetris\Tetris\bin\Debug\Tetris.pdb
+F:\Programmes\C# Programs\GUI\Labs && Assignments\Tetris\Tetris\obj\Debug\Tetris.csprojResolveAssemblyReference.cache
+F:\Programmes\C# Programs\GUI\Labs && Assignments\Tetris\Tetris\obj\Debug\Tetris.Form1.resources
+F:\Programmes\C# Programs\GUI\Labs && Assignments\Tetris\Tetris\obj\Debug\Tetris.Properties.Resources.resources
+F:\Programmes\C# Programs\GUI\Labs && Assignments\Tetris\Tetris\obj\Debug\Tetris.csproj.GenerateResource.Cache
